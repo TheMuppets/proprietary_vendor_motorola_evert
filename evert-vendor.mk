@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/evert/proprietary/vendor/etc/camera/mot_s5k3p8sp_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mot_s5k3p8sp_chromatix.xml \
     vendor/motorola/evert/proprietary/vendor/etc/camera/mot_s5k4h7_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mot_s5k4h7_chromatix.xml \
     vendor/motorola/evert/proprietary/vendor/etc/camera/s5k2l7sa_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k2l7sa_chromatix.xml \
-    vendor/motorola/evert/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc \
+    vendor/motorola/evert/proprietary/vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service-evert.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.biometrics.fingerprint@2.1-service-evert.rc \
     vendor/motorola/evert/proprietary/vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc \
     vendor/motorola/evert/proprietary/vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.keymaster@3.0-service-qti.rc \
     vendor/motorola/evert/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_auo_1080p_593.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_auo_1080p_593.xml \
